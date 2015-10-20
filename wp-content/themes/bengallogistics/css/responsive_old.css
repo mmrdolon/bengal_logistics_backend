@@ -1,0 +1,756 @@
+@media screen and (min-width:800px) and (max-width:1050px){
+
+    .others{
+        width: 20%;
+        margin-left: 15px;
+    }
+
+    .socialIcons{
+        width: 15%;
+        margin-left: 10px;
+    }
+
+    .management{
+        width: 14%;
+        margin-left: 15px;
+    }
+
+    .services{
+        margin-left: 18px;
+    }
+
+    .newsEvents{
+        margin-left: 18px;
+    }
+
+    /*.flagIcon{*/
+        /*width: 26%;*/
+        /*margin-bottom: 10px;*/
+    /*}*/
+
+
+    /*.menuBanner ul li a {*/
+        /*padding-left: 10px;*/
+        /*padding-right: 10px;*/
+    /*}*/
+
+}
+
+
+@media screen and (max-width:1140px){
+    .flagIcon{
+        width: 28%;
+        margin-bottom: 8px;
+    }
+
+    .menuBanner ul li a {
+        padding-left: 12px;
+        padding-right: 15px;
+    }
+}
+
+
+@media screen and (max-width:1120px){
+    .flagIcon{
+        width: 28%;
+        margin-bottom: 8px;
+    }
+
+    .menuBanner ul li a {
+        padding-left: 12px;
+        padding-right: 15px;
+    }
+
+
+}
+
+@media screen and (max-width:1000px){
+    .flagIcon{
+        width: 28%;
+        margin-bottom: 8px;
+    }
+
+    .menuBanner ul li a {
+        padding-left: 12px;
+        padding-right: 15px;
+        font-size: 15px;
+    }
+
+    .sliderBottomPart h3{
+        font-size: 20px;
+    }
+
+    .carousel-caption{
+        font-size: 20px;
+    }
+
+    .bangladeshPart1{
+        width: 75%;
+    }
+    .bangladeshPart2{
+        width: 25%;
+    }
+
+    .attractivePart1{
+        width: 75%;
+    }
+    .attractivePart2{
+        width: 25%;
+    }
+
+    .packagePart1{
+        width: 75%;
+    }
+
+    .packagePart2{
+        width: 25%;
+    }
+
+    .MICEPart1{
+        width: 75%;
+    }
+    .MICEPart2{
+        width: 25%;
+    }
+
+
+    .cruisersPart1{
+        width: 75%;
+    }
+    .cruisersPart2{
+        width: 25%;
+    }
+
+    .wrapperA{
+        min-height: 390px;
+    }
+
+    .eventsShortDescription{
+        font-size: 11px;
+    }
+
+    .eventsName{
+        font-size: 18px;
+    }
+
+    .eventsLocation1{
+        font-size: 18px;
+    }
+
+    .eventsLocation2{
+        font-size: 18px;
+    }
+
+    .eventsLocation3{
+        font-size: 18px;
+    }
+
+    .eventsLocation4{
+        font-size: 18px;
+    }
+
+    .newsImage2{
+        background-size: 100% 100%;
+        height: 100px;
+        width: 70px;
+    }
+
+    .newsImage3{
+        background-size: 100% 100%;
+        height: 100px;
+        width: 70px;
+    }
+
+    .newsImage1{
+        background-size: 100% 100%;
+        height: 100px;
+        width: 70px;
+    }
+
+    .newsHeading{
+        font-size: 20px;
+    }
+
+    .newsDescription{
+        font-size: 12px;
+    }
+
+    /*.tour1{*/
+        /*width: 200px;*/
+    /*}*/
+
+    /*.tour2{*/
+        /*width: 200px;*/
+    /*}*/
+    /*.tour3{*/
+        /*width: 200px;*/
+    /*}*/
+
+    .toursPackagesHeading{
+        width: 94%;
+    }
+
+}
+
+@media screen and (max-width:900px){
+
+    .topBanner{
+        position: absolute;
+        top: 0px;
+        right: 50px;
+    }
+    .flagIcon{
+        width: 32%;
+        margin-bottom: 10px;
+    }
+
+    .menuBanner ul li a {
+        padding-left: 6px;
+        padding-right: 10px;
+        font-size: 14px;
+    }
+
+    .sliderBottomPart h3{
+        font-size: 16px;
+    }
+
+    .sliderBottomPart p{
+        font-size: 14px;
+    }
+
+    .carousel-caption{
+        font-size: 20px;
+    }
+
+    .bangladeshPart1{
+        width: 70%;
+    }
+    .bangladeshPart2{
+        width: 30%;
+    }
+
+    .attractivePart1{
+        width: 70%;
+    }
+    .attractivePart2{
+        width: 30%;
+    }
+
+    .packagePart1{
+        width: 70%;
+    }
+
+    .packagePart2{
+        width: 30%;
+    }
+    .MICEPart1{
+        width: 70%;
+    }
+    .MICEPart2{
+        width: 30%;
+    }
+
+    .cruisersPart1{
+        width: 70%;
+    }
+    .cruisersPart2{
+        width: 30%;
+    }
+
+    .wrapperA{
+        min-height: 460px;
+    }
+
+    .eventsShortDescription{
+        font-size: 11px;
+    }
+
+    .eventsName{
+        font-size: 16px;
+    }
+
+    .eventsLocation1{
+        font-size: 16px;
+    }
+    .eventsLocation2{
+        font-size: 16px;
+    }
+    .eventsLocation3{
+        font-size: 16px;
+    }
+    .eventsLocation4{
+        font-size: 16px;
+    }
+
+    .newsImage2{
+        background-size: 100% 100%;
+        height: 100px;
+        width: 70px;
+    }
+
+    .newsImage3{
+        background-size: 100% 100%;
+        height: 100px;
+        width: 70px;
+    }
+
+    .newsImage1{
+        background-size: 100% 100%;
+        height: 100px;
+        width: 70px;
+    }
+
+    .newsHeading{
+        font-size: 20px;
+    }
+
+    .newsDescription{
+        font-size: 12px;
+    }
+
+    .toursPackagesHeading{
+        width: 94%;
+    }
+    .news{
+        width: 61%;
+    }
+
+
+}
+
+@media screen and (max-width:800px){
+    .flagIcon{
+        width: 37%;
+        margin-bottom: 10px;
+    }
+
+    .menuBanner ul li a {
+        padding-left: 8px;
+        padding-right: 8px;
+        font-size: 14px;
+        line-height: 1;
+    }
+
+    .topBanner{
+        position: absolute;
+        top: 10px;
+        right: 50px;
+    }
+
+    .news{
+        width: 57%;
+    }
+}
+
+@media screen and (max-width:768px){
+
+    .logo{
+        width: 120px;
+    }
+    .news{
+        width: 55%;
+    }
+
+    .newsDescription{
+        font-size: 12px;
+    }
+
+    .menuBanner ul li{
+        width: 100%;
+    }
+
+    .menuBanner ul li a{
+        border-left: none;
+        margin-left: 20px;
+    }
+
+    .socialIcons{
+        width: 16%;
+        margin-left: 5px;
+    }
+
+    .others{
+        width: 22%;
+        margin-left: 10px;
+    }
+
+    .management{
+        width: 13%;
+        margin-left: 13px;
+    }
+
+    .services{
+        width: 14%;
+        margin-left: 10px;
+    }
+
+    .newsEvents{
+        margin-left: 13px;
+    }
+
+    .eventManagement{
+        margin-left: 7%;
+    }
+    .eventPlanning{
+        margin-left: 7%;
+    }
+
+    .eventLogistics{
+        margin-left: 7%;
+    }
+
+    .commitment{
+        margin-left: 7%;
+    }
+
+    .date{
+        font-size: 24px;
+    }
+    .month{
+        font-size: 24px;
+    }
+
+    .eventsYear{
+        font-size: 18px;
+    }
+
+    .eventsName{
+        font-size: 12px;
+    }
+
+    .eventsLocation1{
+        font-size: 12px;
+    }
+    .eventsLocation2{
+        font-size: 12px;
+    }
+
+    .eventsLocation3{
+        font-size: 12px;
+    }
+
+    .eventsLocation4{
+        font-size: 12px;
+    }
+    .whiteDiv{
+        width: 5%;
+    }
+    .latestNewsHeading{
+        margin-right: 25px;
+    }
+
+        .carousel-caption {
+            font-size: 15px;
+            padding-bottom: 30px;
+        }
+
+
+}
+
+@media screen and (max-width:740px){
+
+    .logo{
+        width: 140px;
+    }
+    .eventManagement{
+
+       margin: 0 auto;
+    }
+    .eventPlanning{
+        margin: 0 auto;
+    }
+
+    .eventLogistics{
+        margin: 0 auto;
+    }
+
+    .commitment{
+        margin: 0 auto;
+    }
+
+    #wrapper {
+        width: 95%;
+    }
+
+    .latestNewsHeading{
+        width: 95%;
+        margin-right: 30px;
+    }
+
+    .eventNotice{
+        height: 150px;
+    }
+
+    .events1date{
+        height: 95px;
+    }
+    .events2date{
+        height: 95px;
+    }
+    .events3date{
+        height: 95px;
+    }
+    .events4date{
+        height: 95px;
+    }
+    .date{
+        padding-bottom: 5px;
+    }
+
+    .year{
+        height: 55px;
+    }
+
+    .firstRowEvent1{
+        padding-top: 0px;
+        margin-bottom: -50px;
+    }
+
+    .firstRowEvent2{
+        padding-top: 25px;
+        margin-bottom: -25px;
+    }
+
+    .recentEventsHeading{
+        margin-bottom: 30px;
+    }
+    .wrapperA{
+        min-height: 300px;
+    }
+
+    .recentEvents{
+        height: 840px;
+    }
+
+    .footerHeading{
+        font-size: 10px;
+    }
+
+    .footerMenu a {
+        font-size: 9px;
+    }
+
+    form input[type="text"]{
+        width: 100px;
+    }
+
+    form input[type="submit"]{
+        width: 23px;
+        background-size: 100% 100%;
+    }
+
+    .newsEvents{
+        width: 10%;
+        margin-right: 20px;
+    }
+
+    .socialPages{
+        font-size: 12px;
+    }
+    .socialIcons {
+        width: 15%;
+        margin-left: 0px;
+    }
+
+    .others{
+        width: 26%;
+    }
+
+    .copyRight{
+        font-size: 9px;
+        margin-top: 6px;
+    }
+
+    .designDeveloped a{
+        font-size: 9px;
+    }
+    .flagIcon{
+        width: 45%;
+    }
+
+    .bangladeshPart1,.bangladeshPart2{
+        height: 60px;
+        padding-left: 10px;
+    }
+    .attractivePart1,.attractivePart2{
+        height: 60px;
+        padding-left: 10px;
+    }
+
+    .packagePart1,.packagePart2{
+        height: 60px;
+        padding-left: 10px;
+    }
+
+    .MICEPart1,.MICEPart2{
+        height: 60px;
+        padding-left: 10px;
+    }
+
+    .cruisersPart1,.cruisersPart2{
+        height: 60px;
+        padding-left: 10px;
+    }
+
+    .bangladeshPart1 h3{
+        font-size: 11px;
+        margin-top: 13px;
+    }
+
+    .bangladeshPart1 p{
+        font-size: 9px;
+    }
+
+    .attractivePart1 h3{
+        font-size: 11px;
+        margin-top: 13px;
+    }
+
+    .attractivePart1 p{
+        font-size: 9px;
+    }
+
+    .packagePart1 h3{
+        font-size: 11px;
+        margin-top: 13px;
+    }
+
+    .packagePart1 p{
+        font-size: 9px;
+    }
+
+    .MICEPart1 h3{
+        font-size: 11px;
+        margin-top: 13px;
+    }
+
+    .MICEPart1 p{
+        font-size: 9px;
+    }
+
+    .cruisersPart1 h3{
+        font-size: 11px;
+        margin-top: 13px;
+    }
+
+    .cruisersPart1 p{
+        font-size: 9px;
+    }
+
+    .bangladeshPart2{
+        background-position: 3px 9px;
+    }
+
+    .attractivePart2{
+        background-position: 3px 12px;
+    }
+
+    .packagePart2{
+        background-position: 2px 12px;
+    }
+
+    .MICEPart2{
+        background-position: 2px 12px;
+    }
+
+    .cruisersPart2{
+        background-position: 2px 12px;
+    }
+
+}
+
+@media screen and (max-width:650px) {
+
+    .logo {
+        width: 122px;
+    }
+
+    .others {
+        width: 27%;
+    }
+
+    .copyRight {
+        font-size: 8px;
+        margin-top: 6px;
+    }
+
+    .designDeveloped a {
+        font-size: 8px;
+    }
+
+    .newsEvents {
+        width: 10%;
+        margin-right: 0px;
+    }
+
+    .socialPages {
+        font-size: 10px;
+    }
+
+    #carousel li {
+        width: 120px;
+        background: none;
+    }
+
+    #carousel li img {
+        width: 90px;
+    }
+
+    #carousel li span {
+        width: 60px;
+    }
+
+}
+
+    @media screen and (max-width: 540px) {
+
+        .flagIcon{
+            width: 55%;
+        }
+
+        .logo {
+            width: 115px;
+        }
+
+        .socialIcons{
+           width: 30%;
+            font-size: 15px;
+        }
+
+        .aboutUs{
+            width: 30%;
+            font-size: 15px;
+        }
+        .management{
+            width: 30%;
+            font-size: 15px;
+        }
+        .services{
+
+            width: 30%;
+            margin-top: 20px;
+        }
+        .newsEvents{
+
+            width: 30%;
+            margin-top: 20px;
+
+        }
+        .others{
+            width: 30%;
+            margin-top: 20px;
+
+        }
+
+        .footerMenu{
+            height: 450px;
+        }
+
+        .footerMenu a{
+            font-size: 12px;
+        }
+        .footerHeading{
+            font-size: 15px;
+        }
+
+    }
